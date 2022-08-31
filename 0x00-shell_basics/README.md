@@ -1,1 +1,1 @@
-This displays the contents lists of your current directory
+This displays the contents list of your current directory
