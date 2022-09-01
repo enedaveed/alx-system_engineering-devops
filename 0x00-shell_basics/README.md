@@ -1,1 +1,1 @@
-This is used to move files
+This script is used to delete files
