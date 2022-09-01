@@ -1,1 +1,1 @@
-This script is used to create directories
+This script changes the working directory to the previous one
