@@ -1,1 +1,1 @@
-This script is used to delete files
+This script is used to delete directories
