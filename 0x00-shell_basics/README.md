@@ -1,1 +1,1 @@
-This script is used to delete directories
+This script is used to create directories
