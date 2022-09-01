@@ -1,1 +1,1 @@
-This script changes the working directory to the previous one
+This script lists all the files in all long format
